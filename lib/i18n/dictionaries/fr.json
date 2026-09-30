@@ -1,0 +1,193 @@
+{
+  "locale": "fr",
+  "dir": "ltr",
+  "nav": {
+    "home": "Accueil",
+    "fleet": "Flotte",
+    "booking": "Réservation",
+    "about": "À propos",
+    "cta": "Réserver"
+  },
+  "status": {
+    "available": "Disponible",
+    "booked": "Réservée",
+    "unavailable": "Indisponible"
+  },
+  "categories": {
+    "all": "Tous",
+    "Economique": "Économique",
+    "SUV": "Moyenne",
+    "Luxury": "Luxe"
+  },
+  "specs": {
+    "seats": "places",
+    "luggage": "bagages",
+    "auto": "Auto",
+    "manual": "Manuel",
+    "normalDays": "Jours normaux",
+    "summerDays": "Été / Vacances"
+  },
+  "home": {
+    "title": "Location de voitures de luxe | AGHEZOU LUX CAR — Aéroport Mohammed V",
+    "description": "AGHEZOU LUX CAR — location de voitures économiques et de luxe à l'aéroport Mohammed V Casablanca. Livraison 24/7, kilométrage illimité, réservation WhatsApp.",
+    "heroEyebrow": "Location de voiture 24/7 — Aéroport Mohammed V",
+    "h1": "Location de voitures de luxe à Casablanca",
+    "heroSub": "De l'économique au luxe — livraison à l'aéroport Mohammed V, tarifs clairs et service 24h/24.",
+    "heroCta": "Réservez votre voiture",
+    "introTitle": "AGHEZOU LUX CAR",
+    "introText": "Agence de location de voitures économiques et de luxe à Casablanca, spécialisée dans la livraison à l'aéroport Mohammed V. Flotte variée, service professionnel et prix compétitifs.",
+    "whyTitle": "Pourquoi nous choisir ?",
+    "features": [
+      {
+        "t": "Livraison gratuite",
+        "d": "Prise en charge et restitution à l'aéroport"
+      },
+      {
+        "t": "Service pro",
+        "d": "Équipe disponible 24h/24 7j/7"
+      },
+      {
+        "t": "Voitures modernes",
+        "d": "Flotte renouvelée et diversifiée"
+      },
+      {
+        "t": "Prix compétitifs",
+        "d": "Meilleurs tarifs pour une qualité optimale"
+      }
+    ],
+    "airportTitle": "Location à l'aéroport Mohammed V",
+    "airportText": "Livraison et restitution directement à l'aéroport international Mohammed V. Service disponible 24h/24 et 7j/7.",
+    "fleetPreviewTitle": "Découvrez notre flotte",
+    "seeAllFleet": "Voir toute la flotte",
+    "howTitle": "Comment réserver ?",
+    "steps": [
+      {
+        "t": "Choisissez la voiture",
+        "d": "Parcourez la flotte et trouvez le véhicule adapté"
+      },
+      {
+        "t": "Indiquez les dates",
+        "d": "Dates et lieux de prise en charge et de retour"
+      },
+      {
+        "t": "Confirmez",
+        "d": "Via le formulaire ou directement sur WhatsApp"
+      }
+    ],
+    "faqTitle": "Questions fréquentes",
+    "faq": [
+      {
+        "q": "Puis-je réserver sans carte bancaire ?",
+        "a": "Oui, la réservation se confirme directement sur WhatsApp, sans carte bancaire."
+      },
+      {
+        "q": "Le kilométrage est-il limité ?",
+        "a": "Non, le kilométrage est illimité."
+      },
+      {
+        "q": "Quel est l'âge minimum ?",
+        "a": "L'âge minimum pour louer est de 22 ans."
+      },
+      {
+        "q": "Quels sont les moyens de paiement ?",
+        "a": "CASH, TPE, CHÈQUE, PAYPAL et VIREMENT INSTANTANÉ."
+      },
+      {
+        "q": "Livraison à l'aéroport ?",
+        "a": "Oui, livraison et restitution à l'aéroport Mohammed V 24/7."
+      }
+    ],
+    "ctaTitle": "Prêt pour votre prochain voyage ?",
+    "ctaBtn": "Réserver sur WhatsApp"
+  },
+  "fleet": {
+    "title": "Notre flotte | AGHEZOU LUX CAR",
+    "description": "Flotte AGHEZOU LUX CAR : voitures économiques, moyennes et de luxe à louer à Casablanca et à l'aéroport Mohammed V.",
+    "h1": "Notre flotte",
+    "sub": "Économique, moyenne et luxe — tarifs jours normaux et été/vacances.",
+    "sortAsc": "Prix : croissant",
+    "sortDesc": "Prix : décroissant",
+    "empty": "Aucune voiture dans cette catégorie.",
+    "book": "Réserver"
+  },
+  "booking": {
+    "title": "Réserver une voiture | AGHEZOU LUX CAR",
+    "description": "Réservez facilement une voiture à Casablanca. Choisissez le véhicule et les dates, envoyez la demande sur WhatsApp.",
+    "h1": "Réservez votre voiture",
+    "sub": "Choisissez le véhicule, les dates, et envoyez votre demande sur WhatsApp.",
+    "step1": "01 — Choisissez la voiture",
+    "step2": "02 — Prise en charge et retour",
+    "step3": "03 — Vos informations",
+    "pickupDate": "Date de prise en charge",
+    "pickupTime": "Heure de prise en charge",
+    "pickupLocation": "Lieu de prise en charge",
+    "returnDate": "Date de retour",
+    "returnTime": "Heure de retour",
+    "returnLocation": "Lieu de retour",
+    "name": "Nom complet *",
+    "namePh": "Votre nom",
+    "phone": "Téléphone *",
+    "phonePh": "+212 6xx xx xx xx",
+    "email": "Email (optionnel)",
+    "notes": "Notes complémentaires",
+    "select": "Sélectionnez",
+    "locOptions": [
+      "Aéroport Mohammed V",
+      "Centre-ville",
+      "Adresse (Deroua)",
+      "Autre adresse"
+    ],
+    "confirm": "Confirmer sur WhatsApp",
+    "waGreeting": "Bonjour, je souhaite réserver une voiture :",
+    "waPickup": "Prise en charge",
+    "waReturn": "Retour",
+    "waDuration": "Durée",
+    "waDays": "j",
+    "waTotal": "Total estimé",
+    "waName": "Nom",
+    "waPhone": "Téléphone",
+    "waEmail": "Email",
+    "waNotes": "Notes",
+    "errRequired": "Veuillez remplir tous les champs obligatoires.",
+    "errDates": "La date de retour doit être après ou égale à la date de prise en charge.",
+    "errPhone": "Veuillez entrer un numéro de téléphone valide."
+  },
+  "about": {
+    "title": "À propos | AGHEZOU LUX CAR",
+    "description": "Découvrez AGHEZOU LUX CAR, location de voitures de luxe à l'aéroport Mohammed V. Nos services, notre flotte et notre fonctionnement.",
+    "h1": "À propos — AGHEZOU LUX CAR",
+    "whoTitle": "Qui sommes-nous ?",
+    "whoText": "AGHEZOU LUX CAR est une agence de location de voitures économiques et de luxe, basée à Deroua/Berrchid, spécialisée dans le service de l'aéroport Mohammed V à Casablanca. Notre mission : faciliter vos déplacements avec des véhicules fiables et un service clair 24/7.",
+    "servicesTitle": "Nos services",
+    "services": [
+      "Location économique, moyenne et luxe",
+      "Livraison et restitution à l'aéroport Mohammed V",
+      "Location longue durée particuliers et entreprises",
+      "Service 24/7 via WhatsApp",
+      "Kilométrage illimité",
+      "Âge minimum : 22 ans"
+    ],
+    "whyTitle": "Pourquoi nos clients nous choisissent",
+    "whyText": "Livraison gratuite à l'aéroport, tarifs clairs (normal / été), flotte du Clio au Range Rover, paiement flexible : CASH, TPE, chèque, PayPal et virement instantané.",
+    "fleetTitle": "Notre flotte",
+    "fleetText": "De l'économique au luxe (Porsche, Touareg, Range Sport…) — prête à réserver en ligne.",
+    "airportTitle": "Aéroport Mohammed V",
+    "airportText": "Livraison et restitution à l'aéroport 24h/24. Adresse administrative : Magasin 181 RDC Imm 8 Lotissement Kenzi Deroua Berrchid.",
+    "commitTitle": "Moyens de paiement",
+    "commitText": "CASH · TPE · CHÈQUE · PAYPAL · VIREMENT INSTANTANÉ",
+    "contactTitle": "Contact",
+    "contactText": "WhatsApp / Tél : +212 600-967655 — Email : aghezou.car@gmail.com — Instagram : @rental_car_a81",
+    "ctaFleet": "Voir la flotte",
+    "ctaBooking": "Réserver"
+  },
+  "footer": {
+    "tag": "Location de voitures de luxe",
+    "tag2": "Aéroport Mohammed V — 24/7",
+    "links": "Liens rapides",
+    "contact": "Contact",
+    "hours": "Service 24/7 — Deroua / Aéroport Mohammed V",
+    "rights": "Tous droits réservés.",
+    "address": "Magasin 181 RDC Imm 8 Lotissement Kenzi Deroua Berrchid",
+    "email": "aghezou.car@gmail.com"
+  }
+}

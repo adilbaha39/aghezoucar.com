@@ -1,0 +1,193 @@
+{
+  "locale": "en",
+  "dir": "ltr",
+  "nav": {
+    "home": "Home",
+    "fleet": "Fleet",
+    "booking": "Booking",
+    "about": "About",
+    "cta": "Book now"
+  },
+  "status": {
+    "available": "Available",
+    "booked": "Booked",
+    "unavailable": "Unavailable"
+  },
+  "categories": {
+    "all": "All",
+    "Economique": "Economy",
+    "SUV": "Medium",
+    "Luxury": "Luxury"
+  },
+  "specs": {
+    "seats": "seats",
+    "luggage": "bags",
+    "auto": "Auto",
+    "manual": "Manual",
+    "normalDays": "Normal days",
+    "summerDays": "Summer / Holidays"
+  },
+  "home": {
+    "title": "Luxury Car Rental | AGHEZOU LUX CAR — Mohammed V Airport",
+    "description": "AGHEZOU LUX CAR — economy and luxury car rental at Mohammed V Airport Casablanca. 24/7 delivery, unlimited mileage, WhatsApp booking.",
+    "heroEyebrow": "24/7 car rental — Mohammed V Airport",
+    "h1": "Luxury car rental in Casablanca",
+    "heroSub": "From economy to luxury — airport pickup at Mohammed V, clear prices and round-the-clock service.",
+    "heroCta": "Book your car",
+    "introTitle": "AGHEZOU LUX CAR",
+    "introText": "Economy and luxury car rental agency in Casablanca, specialized in Mohammed V Airport delivery. Varied fleet, professional service and competitive rates.",
+    "whyTitle": "Why choose us?",
+    "features": [
+      {
+        "t": "Free delivery",
+        "d": "Airport pickup and drop-off"
+      },
+      {
+        "t": "Professional service",
+        "d": "Team available 24/7"
+      },
+      {
+        "t": "Modern cars",
+        "d": "Renewed and diverse fleet"
+      },
+      {
+        "t": "Competitive prices",
+        "d": "Best rates for top quality"
+      }
+    ],
+    "airportTitle": "Rental at Mohammed V Airport",
+    "airportText": "Pickup and return directly at Mohammed V International Airport. Service available 24/7.",
+    "fleetPreviewTitle": "Discover our fleet",
+    "seeAllFleet": "See full fleet",
+    "howTitle": "How to book?",
+    "steps": [
+      {
+        "t": "Choose the car",
+        "d": "Browse the fleet and pick the right vehicle"
+      },
+      {
+        "t": "Set your dates",
+        "d": "Pickup and return dates and locations"
+      },
+      {
+        "t": "Confirm",
+        "d": "Via the form or directly on WhatsApp"
+      }
+    ],
+    "faqTitle": "Frequently asked questions",
+    "faq": [
+      {
+        "q": "Can I book without a credit card?",
+        "a": "Yes, booking is confirmed directly on WhatsApp, no credit card needed."
+      },
+      {
+        "q": "Is mileage limited?",
+        "a": "No, mileage is unlimited."
+      },
+      {
+        "q": "What is the minimum age?",
+        "a": "Minimum rental age is 22."
+      },
+      {
+        "q": "What payment methods are accepted?",
+        "a": "CASH, TPE, CHEQUE, PAYPAL and instant bank transfer."
+      },
+      {
+        "q": "Airport delivery?",
+        "a": "Yes, pickup and return at Mohammed V Airport 24/7."
+      }
+    ],
+    "ctaTitle": "Ready for your next trip?",
+    "ctaBtn": "Book on WhatsApp"
+  },
+  "fleet": {
+    "title": "Our fleet | AGHEZOU LUX CAR",
+    "description": "AGHEZOU LUX CAR fleet: economy, medium and luxury cars for rent in Casablanca and at Mohammed V Airport.",
+    "h1": "Our fleet",
+    "sub": "Economy, medium and luxury — normal and summer/holiday rates.",
+    "sortAsc": "Price: low to high",
+    "sortDesc": "Price: high to low",
+    "empty": "No cars in this category.",
+    "book": "Book"
+  },
+  "booking": {
+    "title": "Book a car | AGHEZOU LUX CAR",
+    "description": "Book a car in Casablanca easily. Choose the vehicle and dates, send your request on WhatsApp.",
+    "h1": "Book your car",
+    "sub": "Choose the vehicle, set the dates, and send your request on WhatsApp.",
+    "step1": "01 — Choose the car",
+    "step2": "02 — Pickup & return",
+    "step3": "03 — Your details",
+    "pickupDate": "Pickup date",
+    "pickupTime": "Pickup time",
+    "pickupLocation": "Pickup location",
+    "returnDate": "Return date",
+    "returnTime": "Return time",
+    "returnLocation": "Return location",
+    "name": "Full name *",
+    "namePh": "Your name",
+    "phone": "Phone *",
+    "phonePh": "+212 6xx xx xx xx",
+    "email": "Email (optional)",
+    "notes": "Additional notes",
+    "select": "Select",
+    "locOptions": [
+      "Mohammed V Airport",
+      "City center",
+      "Address (Deroua)",
+      "Other address"
+    ],
+    "confirm": "Confirm on WhatsApp",
+    "waGreeting": "Hello, I would like to book a car:",
+    "waPickup": "Pickup",
+    "waReturn": "Return",
+    "waDuration": "Duration",
+    "waDays": "d",
+    "waTotal": "Estimated total",
+    "waName": "Name",
+    "waPhone": "Phone",
+    "waEmail": "Email",
+    "waNotes": "Notes",
+    "errRequired": "Please fill in all required fields.",
+    "errDates": "Return date must be on or after the pickup date.",
+    "errPhone": "Please enter a valid phone number."
+  },
+  "about": {
+    "title": "About | AGHEZOU LUX CAR",
+    "description": "Learn about AGHEZOU LUX CAR, luxury car rental at Mohammed V Airport. Our services, fleet and how we work.",
+    "h1": "About — AGHEZOU LUX CAR",
+    "whoTitle": "Who we are",
+    "whoText": "AGHEZOU LUX CAR is an economy and luxury car rental agency based in Deroua/Berrchid, specialized in Mohammed V Airport service in Casablanca. Our goal: make your trips easier with reliable cars and clear 24/7 service.",
+    "servicesTitle": "Our services",
+    "services": [
+      "Economy, medium and luxury rental",
+      "Pickup and return at Mohammed V Airport",
+      "Long-term rental for individuals and companies",
+      "24/7 service via WhatsApp",
+      "Unlimited mileage",
+      "Minimum age: 22"
+    ],
+    "whyTitle": "Why customers choose us",
+    "whyText": "Free airport delivery, clear rates (normal / summer), fleet from Clio to Range Rover, flexible payment: CASH, TPE, cheque, PayPal and instant transfer.",
+    "fleetTitle": "Our fleet",
+    "fleetText": "From economy to luxury (Porsche, Touareg, Range Sport…) — ready to book online.",
+    "airportTitle": "Mohammed V Airport",
+    "airportText": "Airport pickup and return available 24/7. Admin address: Magasin 181 RDC Imm 8 Lotissement Kenzi Deroua Berrchid.",
+    "commitTitle": "Payment methods",
+    "commitText": "CASH · TPE · CHEQUE · PAYPAL · INSTANT TRANSFER",
+    "contactTitle": "Contact us",
+    "contactText": "WhatsApp / Phone: +212 600-967655 — Email: aghezou.car@gmail.com — Instagram: @rental_car_a81",
+    "ctaFleet": "View fleet",
+    "ctaBooking": "Book now"
+  },
+  "footer": {
+    "tag": "Luxury car rental",
+    "tag2": "Mohammed V Airport — 24/7",
+    "links": "Quick links",
+    "contact": "Contact",
+    "hours": "24/7 service — Deroua / Mohammed V Airport",
+    "rights": "All rights reserved.",
+    "address": "Magasin 181 RDC Imm 8 Lotissement Kenzi Deroua Berrchid",
+    "email": "aghezou.car@gmail.com"
+  }
+}
