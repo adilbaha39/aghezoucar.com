@@ -6,7 +6,9 @@ export default function Footer({ locale, dict }) {
   const p = (path) => `/${locale}${path}`;
   const phoneDisplay = formatPhone(WA_NUMBER);
   const email = dict.footer.email || "aghezou.car@gmail.com";
-  const address = dict.footer.address || "Magasin 181 RDC Imm 8 Lotissement Kenzi Deroua Berrchid";
+  const address =
+    dict.footer.address ||
+    "Magasin 181 RDC Imm 8 Lotissement Kenzi Deroua Berrchid";
 
   return (
     <footer className={styles.footer}>
@@ -14,14 +16,8 @@ export default function Footer({ locale, dict }) {
         <div className={styles.grid}>
           <div>
             <Link href={p("")} className={styles.logo}>
-              <img
-                src="/images/logo.jpeg"
-                alt="AGHEZOU LUX CAR"
-              />
-              <div>
-                <b>AGHEZOU</b>
-                <small>LUX CAR</small>
-              </div>
+              <b>AGHEZOU</b>
+              <small>LUX CAR</small>
             </Link>
             <p className={styles.tag}>
               {dict.footer.tag}
